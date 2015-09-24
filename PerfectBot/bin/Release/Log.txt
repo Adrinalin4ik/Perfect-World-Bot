@@ -1,0 +1,8 @@
+PerfectBot version: 1,1
+Administration is not responsibility
+for your account
+Time 15:7:43
+Total death: 
+Total expirience gained: System.Windows.Controls.Label: 0
+Total kills: System.Windows.Controls.Label: 0
+

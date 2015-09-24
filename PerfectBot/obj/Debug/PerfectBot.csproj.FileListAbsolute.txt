@@ -1,0 +1,9 @@
+D:\Программы C#\PerfectBot\PerfectBot\bin\Debug\PerfectBot.exe
+D:\Программы C#\PerfectBot\PerfectBot\bin\Debug\PerfectBot.pdb
+D:\Программы C#\PerfectBot\PerfectBot\obj\Debug\MainWindow.baml
+D:\Программы C#\PerfectBot\PerfectBot\obj\Debug\MainWindow.g.cs
+D:\Программы C#\PerfectBot\PerfectBot\obj\Debug\App.g.cs
+D:\Программы C#\PerfectBot\PerfectBot\obj\Debug\PerfectBot_MarkupCompile.cache
+D:\Программы C#\PerfectBot\PerfectBot\obj\Debug\PerfectBot.g.resources
+D:\Программы C#\PerfectBot\PerfectBot\obj\Debug\PerfectBot.exe
+D:\Программы C#\PerfectBot\PerfectBot\obj\Debug\PerfectBot.pdb
